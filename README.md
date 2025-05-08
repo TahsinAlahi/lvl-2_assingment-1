@@ -1,4 +1,4 @@
-# How TypeScript Improves Code Quality and Project Maintainability
+# Blog 1: How TypeScript Improves Code Quality and Project Maintainability
 
 TypeScript is a statically typed superset of JavaScript developed by Microsoft. It adds optional type annotations to JavaScript, enabling developers to catch bugs early, write more predictable code, and scale their projects with confidence.
 
@@ -107,7 +107,7 @@ Whether you’re building a personal project or leading a team in a large-scale 
 
 ---
 
-# Interfaces vs. Types in TypeScript: What’s the Difference?
+# Blog 2: Interfaces vs. Types in TypeScript: What’s the Difference?
 
 TypeScript is loved for the type safety and structure it brings to JavaScript. But if you've used TypeScript for even a short while, you've likely come across **`interface`** and **`type`**. At first glance, they seem similar—both let you define the shape of an object. So, what's the difference? When should you use one over the other?
 
