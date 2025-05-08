@@ -1,10 +1,10 @@
-const formatString = (input: string, toUpper: boolean = true): string => {
+function formatString(input: string, toUpper: boolean = true): string {
   if (toUpper) {
     return input.toUpperCase();
   } else {
     return input.toLowerCase();
   }
-};
+}
 
 function filterByRating(
   items: { title: string; rating: number }[]
